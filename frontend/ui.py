@@ -25,3 +25,4 @@ def create_ui():
         title="Image Compression using SVD (Color)",
         description="Color image compression using SVD (channel-wise)"
     )
+
